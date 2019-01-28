@@ -1,4 +1,4 @@
 public class laravel
 {
-	public static void maim()
+	public static void maim(String args[])
 }
